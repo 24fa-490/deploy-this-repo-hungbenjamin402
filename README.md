@@ -1,5 +1,7 @@
 # Starter Pack for using PostgreSQL with Svelte and SvelteKit
 
+Published URL: https://deploy-this-repo-hungbenjamin4-64e2da245536.herokuapp.com
+
 ## uses 'postgres' npm package
 
 # running:
