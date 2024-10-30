@@ -5,3 +5,4 @@ node_modules
 /packagegit
 pnpm-lock.yaml
 .env
+.vercel
